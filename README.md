@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XheRry7
 - 👀 I’m interested in WEb Development
-- 🌱 I’m currently learning Angular.ts
+- 🌱 I’m currently Working on Reactjs
 - 💞️ I’m looking to collaborate on things related to web development
 - 📫 How to reach me shehryarahmed1744@gmail.com
 
