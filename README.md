@@ -13,4 +13,5 @@ I love working with React | Node | Typescript | Javascript | GraphQL | MongoDB |
    Email to Shehryarahmed1744@gmail.com
 
 **Github Stats:**
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XheRry7&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XheRry7&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
