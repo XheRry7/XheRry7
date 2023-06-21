@@ -1,8 +1,8 @@
 **Hi there!**
 
-I am a passionate web developer 
+I am a passionate Full Stack Developer.
 
-I love working with React | Node | Typescript | Javascript
+I love working with React | Node | Typescript | Javascript | GraphQL | MongoDB | MySql | PostgreSQL.
 
 **Contact:**
 
