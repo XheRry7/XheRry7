@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shehryar2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shehryar2001/" height="30" width="40" /></a>
 <a href="https://fb.com/shehryar ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehryar ahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/shehryarahmed143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehryarahmed143" height="30" width="40" /></a>
+<a href="https://instagram.com/shehryar_ahmed143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehryarahmed143" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shehryarahmed1744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shehryarahmed1744" height="30" width="40" /></a>
 </p>
 
