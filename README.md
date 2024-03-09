@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xherry7&label=Profile%20views&color=0e75b6&style=flat" alt="xherry7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xherry7" alt="xherry7" /></a> </p>
+<p align="left"> <a href="https://github.com/XheRry7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xherry7" alt="xherry7" /></a> </p>
 
 - 🔭 I’m currently working on [Tiktok Clone](https://github.com/XheRry7/tiktok)
 
