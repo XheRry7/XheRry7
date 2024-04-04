@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio3-b0b8b.web.app/](https://portfolio3-b0b8b.web.app/)
 
-- 💬 Ask me about **ReactJs, NodeJs, MongoDB, GraphQL, TypeScript**
+- 💬 Ask me about **ReactJs, VueJS, Angular, GraphQL, TypeScript, JQuery, NodeJs, Php Laravel, MongoDB, PostgreSQL, MySQL, Stored Procedures**
 
 - 📫 How to reach me **shehryarahmed1744@gmail.com**
 
