@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **VueJs and some system design concepts**
 
-- 👨‍💻 All of my projects are available at [https://portfolio3-b0b8b.web.app/](https://portfolio2-ff053.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio2-ff053.web.app/)
 
 - 💬 Ask me about **ReactJs, VueJS, Angular, GraphQL, TypeScript, JQuery, NodeJs, Php Laravel, MongoDB, PostgreSQL, MySQL, Stored Procedures**
 
