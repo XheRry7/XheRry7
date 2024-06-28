@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/XheRry7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xherry7" alt="xherry7" /></a> </p>
 
-- 🔭 I’m currently working on [Tiktok Clone](https://github.com/XheRry7/tiktok)
+- 🔭 I’m currently working on the ERP of Emirates National Facility Management— Semi-Government Facility Management Company in UAE.
 
-- 🌱 I’m currently learning **VueJs and some system design concepts**
+- 🌱 I’m currently learning **Advance Databases concepts and implementing them in real-world scenarios**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio2-ff053.web.app/)
 
-- 💬 Ask me about **ReactJs, VueJS, Angular, GraphQL, TypeScript, JQuery, NodeJs, Php Laravel, MongoDB, PostgreSQL, MySQL, Stored Procedures**
+- 💬 Ask me about **ReactJs, VueJS, Angular, GraphQL, TypeScript, JQuery, NodeJs, Php Laravel, MongoDB, PostgreSQL, MySQL, Stored Procedures, Databases**
 
 - 📫 How to reach me **shehryarahmed1744@gmail.com**
 
