@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/XheRry7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xherry7" alt="xherry7" /></a> </p>
 
-- 🔭 I’m currently working on the ERP of Emirates National Facility Management— Semi-Government Facility Management Company in UAE.
+- 🔭 I’m currently working on a NextJs Web Application and An AI workflow for real estate agents.
 
 - 🌱 I’m currently learning **Advance Databases concepts and implementing them in real-world scenarios**
 
