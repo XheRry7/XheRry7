@@ -12,11 +12,11 @@ Passionate about crafting high-performance applications, solving real-world prob
 
 ### 👨‍💻 About Me
 
-- 💼 Full Stack Developer with **4+ years of experience** working on production-level applications  
+- 💼 Full Stack Developer with **5+ years of experience** working on production-level applications  
 - 🚀 Currently building a **Next.js web application** & an **AI-powered workflow for real estate agents**  
 - 🧠 Strong focus on **system design, performance optimization, and scalable architecture**  
 - 📚 Currently diving deep into **advanced database concepts & real-world implementations**  
-- ⚡ I learn by building — most of my work is in **real-world/company projects** rather than public repos  
+- ⚡ I learn by building, most of my work is in **real-world/company projects** rather than public repos  
 
 ---
 
