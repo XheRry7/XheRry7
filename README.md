@@ -101,7 +101,7 @@ OpenAI / LLMs · RAG applications · n8n automation · conversational agents
 
 ### 🌐 Portfolio & Resume
 
-- 🌍 **Portfolio:** https://portfolio-three-steel-nbjxn2h95j.vercel.app/
+- 🌍 **Portfolio:** https://portfolio-xherry7s-projects.vercel.app/
 - 📄 **Resume:** https://docs.google.com/document/d/1Feiao8z1aoM0mLL8e9Yl85lsRoiUJdEiF4pX7eXMbcE/edit?usp=drive_link
 
 ---
